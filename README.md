@@ -85,3 +85,8 @@ In case of an active SIM:
   - ``` "orderId": "" ```
   - ``` "mobileNumber2": null ```
   - ``` "productRefName": "" ```
+
+## Find
+> Returned systems are shown only with the following attributes uid, name, state, type, lifeCycleState, activityState, creationDate, activationDate, lastStateChangeDate, lastCommDate, commStatus, lastSyncDate, syncStatus To display more or less attributes, the fields parameter has to be set.
+
+- [ ] Wrong
