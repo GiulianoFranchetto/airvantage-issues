@@ -90,3 +90,8 @@ In case of an active SIM:
 > Returned systems are shown only with the following attributes uid, name, state, type, lifeCycleState, activityState, creationDate, activationDate, lastStateChangeDate, lastCommDate, commStatus, lastSyncDate, syncStatus To display more or less attributes, the fields parameter has to be set.
 
 - [ ] Wrong
+
+## Activate
+- [ ] In the field array, this line is wrong: shall be uid array
+> systems.uids	List of system uids to be used to launch the operation	required		uid
+
